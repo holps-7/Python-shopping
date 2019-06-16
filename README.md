@@ -4,6 +4,18 @@ A simple code made to be used by shops of any kind. This python code can be used
 Both of them have their own modules and have may choices to go through.
 
 
+### This code can be used to undestand the use of datetime library
+        *from datetime import datetime
+         now = datetime.now()
+         dt_tm = now.strftime("%d/%m/%Y %H:%M:%S")
+         print("Date of purchase: ", dt_tm[0:10])
+         print("Time of purchase: ", dt_tm[11:19])
+
+
+### This code also shows how to print data in table form in Python 3 neatly without any api
+        *print('%-18s%-16i%-11i%i'%(i,stock[i],basket[i],total))
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
