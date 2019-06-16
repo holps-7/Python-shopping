@@ -54,5 +54,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Gaurang Dwevedi for asking me to work on somthing fun together.
+* Gaurang Dwivedi for asking me to work on somthing fun together.
 * Got bored on summer vacation after my first year of college, so did this project for fun.
