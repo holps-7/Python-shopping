@@ -1,5 +1,5 @@
 #Python programm made for a Shop
-#This was a fun project made by us overnight, please feel free give your precious comment
+#This was a fun project made by us overnight, please feel free give your precious commentc
 #Made by:-
 #           Ramesh Sachan- Vellore Institute of Technology, Vellore
 #           Gaurang Dweivedi- Dehradun Institute of Technology, Dehradun
@@ -12,7 +12,7 @@ def func_stockadd():
     price = int(input())
     stock[prod_name] = price
     print("The latest updated stock list is : \n")
-    func_view()
+    func_stockview()
 
 
 
@@ -31,7 +31,7 @@ def func_update():
         stock[p] = upd_price
         print(p," is updated successfully")
         print("The latest updated stock is : \n")
-        func_view()
+        func_stockview()
     else:
         print(p," does not exists in the stock")
 
@@ -51,7 +51,7 @@ def func_stockremove():
         del stock[r]
         print(r," is removed successfully")
         print("The latest updated stock is : \n")
-        func_view()
+        func_stockview()
     else:
         print(r," does not exists in the stock")
 
