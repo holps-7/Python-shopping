@@ -1,7 +1,7 @@
 # Python-shopping
 
 A simple code made to be used by shops of any kind. This python code can be used by two admin(owners) and users(consumers).
-Both of them have their own modules and have may choices to go through.
+Both of them have their own modules and have many choices to go through.
 
 
 ### This code can be used to undestand the use of datetime library
