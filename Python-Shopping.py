@@ -2,7 +2,7 @@
 #This was a fun project made by us overnight, please feel free give your precious commentc
 #Made by:-
 #           Ramesh Sachan- Vellore Institute of Technology, Vellore
-#           Gaurang Dweivedi- Dehradun Institute of Technology, Dehradun
+#           Gaurang Dwivedi- Dehradun Institute of Technology, Dehradun
 
 
 # function to add the product in stock
