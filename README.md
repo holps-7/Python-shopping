@@ -52,7 +52,7 @@ Simply download the .py file and run it on your IDE or Code Editor
 
 ## Contributing
 
-Fell free to pull requests, for contributing.
+Feel free to pull requests, for contributing.
 
 
 ## Authors
@@ -66,5 +66,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Gaurang Dwivedi for asking me to work on somthing fun together.
+* Gaurang Dwivedi for asking me to work on something fun together.
 * Got bored on summer vacation after my first year of college, so did this project for fun.
