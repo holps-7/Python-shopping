@@ -57,8 +57,8 @@ Feel free to pull requests, for contributing.
 
 ## Authors
 
-  * **Ramesh Sachan** - Vellore Institute of Technology
-  * **Gaurang Dwivedi** - Dehradun Institute of Technology
+  * **Ramesh Sachan (@holps-7)** - Vellore Institute of Technology
+  * **Gaurang Dwivedi (@Gaur025)** - Dehradun Institute of Technology
 
 ## License
 
