@@ -1,3 +1,9 @@
+<center>
+  
+![](https://img.shields.io/badge/author-Ramesh%20Sachan-brightgreen) ![](https://img.shields.io/badge/licence-MIT-green)
+
+</center>
+
 # Python-shopping
 
 A simple code made to be used by shops of any kind. This python code can be used by two admin(owners) and users(consumers).
